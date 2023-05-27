@@ -11,7 +11,7 @@ I'm proficient in the following technologies:
     Node.js
     MySQL
     Git
-    C++
+   
 
 🎉 Fun fact
 
