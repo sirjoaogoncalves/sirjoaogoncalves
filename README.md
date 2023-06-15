@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joao Gonçalves</h1>
+<h1 align="center">Hi 👋, I'm João Gonçalves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjoaogoncalves&label=Profile%20views&color=0e75b6&style=flat" alt="sirjoaogoncalves" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imjoaogoncalves" target="blank"><img src="https://img.shields.io/twitter/follow/imjoaogoncalves?logo=twitter&style=for-the-badge" alt="imjoaogoncalves" /></a> </p>
