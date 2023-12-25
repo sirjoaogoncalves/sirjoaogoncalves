@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm João Gonçalves</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjoaogoncalves&label=Profile%20views&color=0e75b6&style=flat" alt="sirjoaogoncalves" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirjoaogoncalves&show_icons=true&locale=en&layout=compact" alt="sirjoaogoncalves" /></p>
+# 👋 Hello World!
+
+- Fluent in JavaScript/TypeScript, the go-to wizard for web sorcery and bug extermination.
+- Aspiring PHP padawan, dreaming of buying a Lambo with my future PHP skills. Dream big or go home, right? 😄
+- Rust explorer, navigating uncharted territories in pursuit of mastery.
+- Proudly rejecting the comfort of IDEs, I'm a VIM wizard casting spells in plain text. 💻✨
 
 
